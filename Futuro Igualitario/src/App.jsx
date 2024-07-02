@@ -5,6 +5,7 @@ import Tablas from './assets/Components/Tablas/index'
 import Agendarcita from './assets/Components/Agendarcita'
 import Registrousuaria from './assets/Components/Registrousuaria'
 import Perfil from './assets/Components/Perfil'
+import Apoyossociales from './assets/Components/Apoyossociales'
 import './tabla.css'
 
 import './App.css'
@@ -21,6 +22,7 @@ function App() {
    <Agendarcita/>
    <Registrousuaria/>
    <Perfil/>
+   <Apoyossociales/>
     </>
   )
 }
