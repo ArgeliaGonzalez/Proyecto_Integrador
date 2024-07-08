@@ -1,0 +1,50 @@
+.content {
+    padding-top: 40px;
+    background-color: #fde9e9;
+    padding: 30px;
+    text-align: center;
+    color: black;
+}
+.titulo1{
+    padding-bottom: 20px;
+}
+
+.apartado1, .apartado2, .apartado3 {
+    display: inline-block;
+    width: 30%;
+    margin: 0 1%;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.apartado1 img, .apartado2 img, .apartado3 img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+}
+
+.participar3, .participar2, .participar1 {
+    background: none;
+    border: none;
+    color: #9b1c1c;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.ver-mas {
+    display: block;
+    width: 90%;
+    margin: 20px auto 0;
+    padding: 10px;
+    background-color: #6b1c1c;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ver-mas:hover {
+    background-color: #9b1c1c;
+}

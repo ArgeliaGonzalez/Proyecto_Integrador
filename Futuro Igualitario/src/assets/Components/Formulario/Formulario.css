@@ -1,0 +1,29 @@
+.content {
+    padding: 20px;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .select-container, .form-container {
+    margin-bottom: 20px;
+  }
+  
+  .label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input, .select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
